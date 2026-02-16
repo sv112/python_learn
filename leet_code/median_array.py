@@ -21,7 +21,7 @@ class Solution:
         if (idx_1 >= n_1):
             next_val = nums2[idx_2]
 
-            nums1[idx_1]  or (nums1[idx_1] > nums2[idx_2]) else nums2[idx_2]
+            # nums1[idx_1]  or (nums1[idx_1] > nums2[idx_2]) else nums2[idx_2]
 
         if (n_1 + n_2) % 2 == 0:
             median = (prev_val + next_val) / 2
